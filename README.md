@@ -10,7 +10,7 @@
 ### Connect with me:
 
 
-[![website](./img/twitter-dark.svg)](https://twitter.com/VicContrerasSWE#gh-dark-mode-only)
+(./img/twitter-dark.svg)](https://twitter.com/VicContrerasSWE#gh-dark-mode-only)
 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/swevicentecontreras/#gh-dark-mode-only)
 
@@ -18,17 +18,13 @@
 
 ### Languages and Tools
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
+#### Front End
 
-<br />
-<br />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" /><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" /><img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/threedotjs/white" />
+
+<h3>Back-End</h3>
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/node.js" /> <img height="32" width="32" src="https://cdn.simpleicons.org/express/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /><img height="32" width="32" src="https://cdn.simpleicons.org/passport" /><img height="32" width="32" src="https://cdn.simpleicons.org/npm" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nodemon" /><img height="32" width="32" src="https://cdn.simpleicons.org/handlebarsdotjs/orange" /> <img height="32" width="32" src="https://cdn.simpleicons.org/heroku" />

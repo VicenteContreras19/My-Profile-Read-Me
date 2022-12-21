@@ -1,6 +1,6 @@
 <h1 align=center>Hello, my name is Vicente 👋</h1>
 
-<h2 align=center> I'm a Husband, Father, and Spanish Teacher turned Full Stack Developer!</h2>
+<h2 align=center> I'm a Husband, Father, and Spanish Teacher turned Full Stack Developer</h2>
 
  <h3 align=center> 🌮 I'm currently working on an api for film enthusiasts. </h3>
  

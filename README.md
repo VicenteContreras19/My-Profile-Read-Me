@@ -46,14 +46,17 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicenteContreras19&show_icons=true&theme=radical)
 
 </section>
-         
- <section align=center>
+      
+
+ <section align=center>      
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteContreras19&theme=radical)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+
+
 <img src="https://www.codewars.com/users/VicenteContreras96/badges/large"/>
 </section>        
  <br />       
 <section align=center>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteContreras19)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 
   </section>

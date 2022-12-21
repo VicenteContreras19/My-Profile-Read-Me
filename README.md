@@ -12,18 +12,8 @@
   
   <h3 align=center>🌶️ Consider added spice in your work culture. Click <a href="https://www.linkedin.com/in/swevicentecontreras/#gh-dark-mode-only">here.🌶️</a></h3>
 
-
-<section align=center>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteContreras19)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
-
-  </section>
-  
-  
-  <section align=center>
-<img src="https://www.codewars.com/users/VicenteContreras96/badges/large"/>
-</section>
 <h2 align=center> Connect with me </h2>
 
 <section align=center> 
@@ -47,11 +37,24 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" /> <img height="32" width="32" src="https://cdn.simpleicons.org/express/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /><img height="32" width="32" src="https://cdn.simpleicons.org/passport" /><img height="32" width="32" src="https://cdn.simpleicons.org/npm" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nodemon" /> <img height="32" width="32" src="https://cdn.simpleicons.org/heroku" />
 </section>
 
-<h2 align=center >Github Stats</h2>
+<h2 align=center >Stats</h2>
 
-<section align=center
+ 
+
+<section align=center>
          
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicenteContreras19&show_icons=true&theme=radical)
 
 </section>
+         
+ <section align=center>
+<img src="https://www.codewars.com/users/VicenteContreras96/badges/large"/>
+</section>        
+ <br />       
+<section align=center>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteContreras19)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+
+
+  </section>
 

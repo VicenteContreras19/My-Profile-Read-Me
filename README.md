@@ -32,7 +32,9 @@
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" /><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" /><img height="32" width="32" src="https://cdn.simpleicons.org/redux" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
+ <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/threedotjs/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" /> <img height="32" width="32" src="https://cdn.simpleicons.org/express/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /><img height="32" width="32" src="https://cdn.simpleicons.org/passport" /><img height="32" width="32" src="https://cdn.simpleicons.org/npm" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nodemon" /> <img height="32" width="32" src="https://cdn.simpleicons.org/heroku" />
 </section>

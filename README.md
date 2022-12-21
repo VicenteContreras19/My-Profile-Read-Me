@@ -2,9 +2,9 @@
 
 <h2 align=center> I'm a Husband, Father, and Spanish Teacher turned Full Stack Developer</h2>
 
- <h3 align=center> 🌮 I'm currently working on an api for film enthusiasts. </h3>
+ <h3 align=center> 🌮 I'm currently working on an API for film enthusiasts. </h3>
  
- <h3 align=center> 🌮 I'm currently learning OAuth and other Passport.js strategies. </h3>
+ <h3 align=center> 🌮 I'm learning OAuth and other Passport.js strategies. </h3>
  
  <h3 align=center> 🌮 2023 Goals: Contribute to more Open Source projects that focus on helping marginalized communities. </h3>
  

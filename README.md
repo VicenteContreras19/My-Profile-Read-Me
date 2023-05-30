@@ -4,13 +4,11 @@
 
  <h3 align=center> 🌮 I'm currently working on an app to help U.S. migrants study for the Civics exam.. </h3>
  
- <h3 align=center> 🌮 I'm learning OAuth and other Passport.js strategies. </h3>
+ <h3 align=center> 🌮 I'm learning React Redux </h3>
  
  <h3 align=center> 🌮 2023 Goals: Contribute to more Open Source projects that focus on helping marginalized communities. </h3>
- 
- <h3 align=center>🌮 Fun Fact: Did you know there are 37 spices and chili peppers native to Mexico?</h3>
   
-  <h3 align=center>🌶️ Consider added spice in your work culture. Click <a href="https://www.linkedin.com/in/swevicentecontreras/#gh-dark-mode-only">here.🌶️</a></h3>
+  <h3 align=center>🌶️ Click <a href="https://www.linkedin.com/in/swevicentecontreras/#gh-dark-mode-only">here to connect.🌶️</a></h3>
 
   
 

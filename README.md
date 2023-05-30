@@ -8,7 +8,7 @@
  
  <h3 align=center> 🌮 2023 Goals: Contribute to more Open Source projects that focus on helping marginalized communities. </h3>
   
-  <h3 align=center>🌶️ Click <a href="https://www.linkedin.com/in/swevicentecontreras/#gh-dark-mode-only">here to connect.🌶️</a></h3>
+  <h3 align=center>🌶️ Click <a href="https://www.linkedin.com/in/swevicentecontreras/#gh-dark-mode-only">here</a> to connect. 🌶️</h3>
 
   
 
